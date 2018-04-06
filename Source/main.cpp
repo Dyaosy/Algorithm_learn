@@ -3,7 +3,7 @@
 
 int main()
 {
-    test_sort( merge_sort );
+    test_sort( fast_sort_senior );
     std::cin.get();
     return 0;
 }
