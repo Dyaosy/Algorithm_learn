@@ -1,0 +1,3 @@
+#include "stack.h"
+
+//all the functions have been defined in handle file...
