@@ -11,4 +11,5 @@ int* merge_sort ( int arr[] ,int l ) ;
 int* heap_sort( int arr[] ,int l ) ;
 int* fast_sort( int arr[] ,int l ) ;
 int* fast_sort_senior( int arr[] ,int l ) ;
+int* bubble_sort( int arr[] ,int l ) ;
 #endif // SORT_H
